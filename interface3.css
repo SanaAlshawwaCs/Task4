@@ -1,0 +1,32 @@
+.companies{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+section{
+    padding:0px 120px;
+}
+.companies h1 {
+    margin: 64px 0px 64px 0px;
+}
+.image-companies{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.companies .image-companies img {
+    width: 90px;
+    height: 90px;
+    margin:0px 45px;
+}
+.image-com{
+    display: flex;
+    flex-direction: column;
+}
+.image-com span{
+    text-align: center;
+    padding-top: 18px;
+}
